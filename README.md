@@ -1,5 +1,5 @@
 # Scriber 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://project_three.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://scriber.laurenr01.com/)
 
 ![ScriberScreenshots](https://user-images.githubusercontent.com/78819957/137565697-dd332b35-8eed-47a9-bb8f-7c955f798015.png)
 
@@ -17,9 +17,9 @@ Save your drafts until they’re ready to post, or allow the text to speech modu
 - [License](#license)
 
 ## Installation
-For general use, the application can be used right from the deployed link [https://project_three.herokuapp.com](https://project_three.herokuapp.com)
+For general use, the application can be used right from the deployed link [https://scriber.laurenro01.com](https://scriber.laurenr01.com)
 
-If you wanted to work on development of the app, you would go to [https://github.com/EthanHarsh/project_three](https://github.com/EthanHarsh/project_three) and clone/fork the repo.  You would need to have a [MongoDB server](https://www.mongodb.com/try/download/community) and [Redis](https://redis.io/) already installed and running on your machine.  From your local computer, you would need to run the following commands:
+If you wanted to work on development of the app, you would go to [https://github.com/LaurenR01/Scriber](https://github.com/LaurenR01/Scriber) and clone/fork the repo.  You would need to have a [MongoDB server](https://www.mongodb.com/try/download/community) and [Redis](https://redis.io/) already installed and running on your machine.  From your local computer, you would need to run the following commands:
 ```
 npm run install
 cd server
