@@ -26,7 +26,7 @@ if (process.env.NODE_ENV === 'production') {
 //START SERVER
 const port = 4051;
 app.listen(port, () => {
-  console.log(`App running on port ${port}...`);
+  console.log(`App running on port ${PORT}...`);
 });
 
 startApolloServer(typeDefs, resolvers)
